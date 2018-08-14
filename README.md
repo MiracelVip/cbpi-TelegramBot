@@ -16,3 +16,5 @@ git clone https://github.com/MiracelVip/cbpi-TelegramBot
 ```
 
     sudo reboot
+
+# still under development
